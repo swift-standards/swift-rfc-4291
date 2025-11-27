@@ -1,0 +1,3 @@
+module TestingPerformance {
+    header "/Users/coen/Developer/swift-standards/swift-rfc-4291/.build/arm64-apple-macosx/debug/TestingPerformance.build/include/TestingPerformance-Swift.h"
+}
